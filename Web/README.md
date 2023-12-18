@@ -29,7 +29,7 @@
 
 2. Clone the Repo
    ```
-   git clone https://github.com/nineteen58/sebenzo_sa/
+   git clone <repo>
    ```
 3. Enter the project directory
    
